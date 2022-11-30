@@ -12,13 +12,13 @@ The server is initiated at port 1002 by default.
 
 Using a default port 1002:
 To start server using command line type command:<br />
-**command:** java Server<br />
-**command:** java Client<br />
+**command:** java ChatServer<br />
+**command:** java ChatClient<br />
 
 Using port of your choice:
 To start client using command line type command:<br />
-**command:** java Server \<portnumber> <br />
-**command:** java Client localhost \<portnumber><br />
+**command:** java ChatServer \<portnumber><br />
+**command:** java ChatClient localhost \<portnumber><br />
 
 ### Get help:
 1. To get help<br />
